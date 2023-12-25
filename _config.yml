@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Annan Wang # the main title
+title: Wan's Page # the main title
 
 tagline: New Episode  # it will display as the sub-title
 
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Wan's Page
+  name: Annan Wang
   email: 13109323725@163.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
