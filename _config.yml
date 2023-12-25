@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Wan's Page # the main title
 
-tagline: New Episode  # it will display as the sub-title
+tagline: Annan Wang  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 # img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "../assets/wan.jpg"
+avatar: "/assets/img/wan.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
