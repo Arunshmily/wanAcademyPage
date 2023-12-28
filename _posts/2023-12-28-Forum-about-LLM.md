@@ -2,7 +2,7 @@
 title: Fourm about LLM
 author: Wan
 date: 2023-12-28 18:44:00 +0800
-categories: [Blogging, Tutorial]
+categories: [Blogging, Fourm]
 tags: [writing]
 render_with_liquid: false
 ---
