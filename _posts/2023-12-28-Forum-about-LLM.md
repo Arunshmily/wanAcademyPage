@@ -1,7 +1,7 @@
 ---
 title: Fourm about LLM
 author: Wan
-date: 2023-12-25 18:44:00 +0800
+date: 2023-12-28 18:44:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
 render_with_liquid: false
