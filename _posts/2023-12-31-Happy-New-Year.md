@@ -11,4 +11,4 @@ render_with_liquid: false
 
 Entering 2024 with enthusiasm.
 
-Hope For A New Period of Life
+Hope For A New Period of Life.
