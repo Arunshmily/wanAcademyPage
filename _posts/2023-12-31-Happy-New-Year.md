@@ -7,8 +7,6 @@ tags: [Blessing]
 render_with_liquid: false
 ---
 
-# Happy New Year！
-
 Entering 2024 with enthusiasm.
 
 Hope For A New Period of Life.
